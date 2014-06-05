@@ -1,0 +1,24 @@
+{
+  "name": "emberassing",
+  "version": "0.1.0",
+  "homepage": "https://github.com/csand/emberassing",
+  "authors": [
+    "Sam Anderson <sam@csand.net>"
+  ],
+  "keywords": [
+    "ember"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ember": "~1.5.1"
+    // "jquery": "~1.11.1" // If you need browser compatibility
+  }
+}

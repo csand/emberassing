@@ -1,0 +1,10 @@
+{
+  "predef": [
+    "window",
+    "document",
+    "Ember",
+    "Em",
+    "DS"
+  ],
+  "strict": false
+}
